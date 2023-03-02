@@ -13,7 +13,7 @@ connectDB();
 
 // cors
 app.use(cors({
-    origin: 'http://localhost:3000',
+    origin: 'https://resume-builder-backend-aa75.onrender.com',
     optionsSuccessStatus: 200 
   }));
 
