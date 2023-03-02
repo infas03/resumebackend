@@ -13,7 +13,7 @@ connectDB();
 
 // cors
 app.use(cors({
-    origin: 'https://resume-builder-backend-aa75.onrender.com',
+    origin: 'https://resume-builder-1l9f.onrender.com',
     optionsSuccessStatus: 200 
   }));
 
